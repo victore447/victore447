@@ -1,5 +1,7 @@
-## Hi there![129](https://github.com/user-attachments/assets/22753ccf-e9f5-4d61-8ffd-6f085abe7a9a)
-Je suis dans le domaine de conseil en👉[Activités spécialisées, scientifiques et techniques"](https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/74.90b)
+## Hi there
+ <img width="800" height="500" alt="Risk management" src="https://github.com/user-attachments/assets/56525189-b4c8-47e7-9f0e-7151084d188d" />
+ 
+![129](https://github.com/user-attachments/assets/22753ccf-e9f5-4d61-8ffd-6f085abe7a9a)  Je suis dans le domaine de conseil en👉[Activités spécialisées, scientifiques et techniques.](https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/74.90b)
  - [Intelligence économique](https://fr.wikipedia.org/wiki/Intelligence_%C3%A9conomique) ,[prévention Incendie](https://fr.wikipedia.org/wiki/Pr%C3%A9vention_incendie) ,[Osint](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes) etc.. 
 <!--
 **victore447/victore447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
