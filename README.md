@@ -1,6 +1,5 @@
 ## Hi there 👋
-Dans le domaine de conseil en 
-"Activités spécialisées, scientifiques et techniques" ([Osint](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes), [Intelligence économique](https://fr.wikipedia.org/wiki/Intelligence_%C3%A9conomique),[prévention Incendie]
+Je suis dans le domaine de conseil en "Activités spécialisées, scientifiques et techniques" ([Osint](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes), [Intelligence économique](https://fr.wikipedia.org/wiki/Intelligence_%C3%A9conomique),[prévention Incendie](https://fr.wikipedia.org/wiki/Pr%C3%A9vention_incendie) etc..) 
 <!--
 **victore447/victore447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
