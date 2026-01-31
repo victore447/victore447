@@ -3,7 +3,7 @@
 ![129](https://github.com/user-attachments/assets/22753ccf-e9f5-4d61-8ffd-6f085abe7a9a)  Conseil en👉[Activités spécialisées, scientifiques et techniques.](https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/74.90b)
  - 🖱️ [Intelligence économique](https://www.portail-ie.fr/lintelligence-economique/)(voir👉[wiki](https://fr.wikipedia.org/wiki/Intelligence_%C3%A9conomique))
  - 🖱️ [Prevention Incendie](https://fr.wikipedia.org/wiki/Pr%C3%A9vention_incendie)(👉[Erp](https://www.legifrance.gouv.fr/codes/section_lc/JORFTEXT000000290033/LEGISCTA000020303815/2019-07-01)🏦 et 👉[Igh](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025167121)🏢 etc..)
- - 🖱️ [Osint](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
+ - 🖱️ [Osint](https://github.com/topics/osint) (voir👉[wiki](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes))
  - Etc..
  <img width="800" height="500" alt="Risk management" src="https://github.com/user-attachments/assets/56525189-b4c8-47e7-9f0e-7151084d188d" />
   
