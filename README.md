@@ -4,6 +4,9 @@
  - 🖱️ [Intelligence économique](https://www.portail-ie.fr/lintelligence-economique/) (👉[wiki](https://fr.wikipedia.org/wiki/Intelligence_%C3%A9conomique)) ☝️Via [Osint Tools](https://github.com/topics/osint) (👉[wiki](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)) etc...
  - 🖱️ [Prevention Incendie](https://fr.wikipedia.org/wiki/Pr%C3%A9vention_incendie)(👉[Erp](https://www.legifrance.gouv.fr/codes/section_lc/JORFTEXT000000290033/LEGISCTA000020303815/2019-07-01)🏦 et 👉[Igh](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025167121)🏢 ,👉[Icpe](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006143748/) etc..)
  - Etc..
+   
+![241](https://github.com/user-attachments/assets/40b44f61-4f0c-4157-8c62-9e36d7c7ebca) Comme on aime tous du gratuit visiter ma 👉🖲️ [Caverne D'Alibaba](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d) (accepter restrictions du navigateur)✔️
+
  <img width="800" height="500" alt="Risk management" src="https://github.com/user-attachments/assets/56525189-b4c8-47e7-9f0e-7151084d188d" />
   
 <!--
